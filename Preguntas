@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link type="text/css" rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+<main>
+  <div class="container">
+    <p>¿Te consideras una persona ejemplar?</p>
+    <div class="options">
+      <button id="yesBtn">Si</button>
+      <button id="noBtn">No</button>
+    </div>
+  </div>
+<main>
+  <div class="">
+    <p>¿Eres empática?</p>
+    <div class="options">
+      <button id="yesBtn">Si</button>
+      <button id="noBtn">No</button>
+    </div>
+  </div>
+<main>
+  <div class="container">
+    <p>¿Crees que puedas lograr todo lo que te propongas?</p>
+    <div class="options">
+      <button id="yesBtn">Si</button>
+      <button id="noBtn">No</button>
+    </div>
+  </div>
+<main>
+  <div class="container">
+    <p>La siguiente pregunta que viene es muy importante por favor responda con toda sinceridad </p>
+    <div class="options">
+      <button id="Continuar">Si</button>
+    </div>
+  </div>
+</main>
+  <div class="container">
+    <p>Te convertiste en mi alegría y inspiración no puedo aguantar más para hacerte esta pregunta 
+      ¿Valeria quieres ser mi enamorada?</p>
+    <div class="options">
+      <button id="yesBtn">Si</button>
+      <button id="noBtn">No</button>
+    </div>
+  </div>
+</main>
+    <script type="module" src="script.js"></script>
+  </body>
+</html>
